@@ -1,11 +1,11 @@
 <?PHP
 /**
 Plugin Name: Custom Page Theme
-Plugin URI: http://patriotmemory.us 
+Plugin URI: https://github.com/KiranDevnTech/custom-page-theme 
 Description: Using this plugin you can craft your wordpress page with a completely different view, irrespective of whatever view your active theme applies over it, with no (or vary small programming). It's page specific theming concept allows you to apply any dormant or idle theme to your wordpress page, through admin panel without any programming intervention. It's Add/Edit Custom Page theme wizard also helps you to convert your html markup into a wordpress theme. So with this plugin you can design your wordpress with you custom html design.
 Version: 1.0 
 Author: J.K.
-Author URI: https://www.linkedin.com/in/jeetendra-bajaj-14020b14/ */ 
+Author URI: https://github.com/KiranDevnTech */ 
 
 if ( ! class_exists( 'CSTM_PAGE_THEME' ) ) :
 
